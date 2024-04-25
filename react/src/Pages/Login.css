@@ -1,0 +1,32 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    backdrop-filter: blur(10px);
+    
+}
+.MainBox{
+    border: 10px solid aquamarine;
+    padding: 50px;
+    border-radius: 10px;
+    align-items: center;
+    text-align:center;
+    
+    
+}
+.MainBox h2{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.mb-4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-align: left;
+}
+.mb-4 input{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
